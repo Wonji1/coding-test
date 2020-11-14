@@ -1,0 +1,11 @@
+#https://stonejjun.tistory.com/24
+n = int(input())
+def pibo1(n):
+    dp = [-1 for _ in range(90)]
+    dp[0] = 0
+    dp[1] = 1
+    for i in range(2,n+1):
+        dp[i] = dp[i-1]+dp[i-2]
+    return dp[n]
+
+print(pibo1(n))
