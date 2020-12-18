@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CodeLens (Launch) - dp3_123make",
+            "request": "launch",
+            "mainClass": "dp3_123make",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dp2_make1",
+            "request": "launch",
+            "mainClass": "dp2_make1",
+            "projectName": "FC_cb078d4d"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
