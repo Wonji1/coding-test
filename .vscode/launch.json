@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - dp6_longestup",
+            "request": "launch",
+            "mainClass": "dp6_longestup",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - dp6_longestdown",
             "request": "launch",
             "mainClass": "dp6_longestdown",
