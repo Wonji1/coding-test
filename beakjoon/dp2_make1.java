@@ -16,5 +16,6 @@ public class dp2_make1 {
             }
         }
         System.out.println(dp[n]);
+        sc.close();
     }
 }

@@ -15,7 +15,9 @@ public class dp3_123make {
                 dp[k] = dp[k-3]+ dp[k-2]+dp[k-1];
             };
         System.out.println(dp[n]);
+        
     }
+    sc.close();
     }
     
 }

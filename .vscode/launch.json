@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - dp6_longestdown",
+            "request": "launch",
+            "mainClass": "dp6_longestdown",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dp5_tiles",
+            "request": "launch",
+            "mainClass": "dp5_tiles",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dp4_stairs",
+            "request": "launch",
+            "mainClass": "dp4_stairs",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - dp3_123make",
             "request": "launch",
             "mainClass": "dp3_123make",
