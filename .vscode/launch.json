@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - String11654",
+            "request": "launch",
+            "mainClass": "easytodif.String11654",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String2941",
+            "request": "launch",
+            "mainClass": "easytodif.String2941",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String5622",
+            "request": "launch",
+            "mainClass": "easytodif.String5622",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String2908",
+            "request": "launch",
+            "mainClass": "easytodif.String2908",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String1152",
+            "request": "launch",
+            "mainClass": "easytodif.String1152",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String1157",
+            "request": "launch",
+            "mainClass": "easytodif.String1157",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String2675",
+            "request": "launch",
+            "mainClass": "easytodif.String2675",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String10809",
+            "request": "launch",
+            "mainClass": "easytodif.String10809",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String11720",
+            "request": "launch",
+            "mainClass": "easytodif.String11720",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - dp7_leavecomp",
             "request": "launch",
             "mainClass": "dp7_leavecomp",
