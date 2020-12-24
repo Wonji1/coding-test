@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - String1316",
+            "request": "launch",
+            "mainClass": "easytodif.String1316",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - String11654",
             "request": "launch",
             "mainClass": "easytodif.String11654",
