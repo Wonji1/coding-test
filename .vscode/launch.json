@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - math1_10250",
+            "request": "launch",
+            "mainClass": "easytodif.math1_10250",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - math1_2869",
+            "request": "launch",
+            "mainClass": "easytodif.math1_2869",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - math1_1193",
+            "request": "launch",
+            "mainClass": "easytodif.math1_1193",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - math1_2292",
+            "request": "launch",
+            "mainClass": "easytodif.math1_2292",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - math1_2839",
+            "request": "launch",
+            "mainClass": "easytodif.math1_2839",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - math1_1712",
+            "request": "launch",
+            "mainClass": "easytodif.math1_1712",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - String1316",
             "request": "launch",
             "mainClass": "easytodif.String1316",
