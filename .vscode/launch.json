@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - sort_2751",
+            "request": "launch",
+            "mainClass": "easytodif.sort_2751",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bruth_1436",
+            "request": "launch",
+            "mainClass": "easytodif.bruth_1436",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bruth_7568",
+            "request": "launch",
+            "mainClass": "easytodif.bruth_7568",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bruth_2231",
+            "request": "launch",
+            "mainClass": "easytodif.bruth_2231",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - recur_2447",
+            "request": "launch",
+            "mainClass": "easytodif.recur_2447",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - recur_10870",
+            "request": "launch",
+            "mainClass": "easytodif.recur_10870",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - recur_10872",
+            "request": "launch",
+            "mainClass": "easytodif.recur_10872",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - math1_10250",
             "request": "launch",
             "mainClass": "easytodif.math1_10250",
