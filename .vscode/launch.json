@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch array_11651",
+            "request": "launch",
+            "mainClass": "easytodif.array_11651",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_2108",
+            "request": "launch",
+            "mainClass": "easytodif.array_2108",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - sort_2751",
             "request": "launch",
             "mainClass": "easytodif.sort_2751",
