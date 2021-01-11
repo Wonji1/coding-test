@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch backtracking_15649",
+            "request": "launch",
+            "mainClass": "easytodif.backtracking_15649",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
             "name": "Launch array_11651",
             "request": "launch",
             "mainClass": "easytodif.array_11651",
