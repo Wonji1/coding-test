@@ -5,25 +5,27 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class backtracking_15649 {
+public class backtracking_15650 {
 	public static int[] arr;
 	public static boolean[] check;
 	public static StringBuilder sb = new StringBuilder();
 
 	public static void dfs(int n, int m ,int cnt){
 		if(cnt == m){
-			for(int val:arr){	
+			for(int val:arr){
 				sb.append(val).append(' ');
 			}
 			sb.append('\n');
 			return;
 		}
 		for(int i =0; i<n ;i++){
-			if (!check[i]){ 
-				check[i]=true;
-				arr[cnt] = i+1;
-				dfs(n,m,cnt+1);
-				check[i] = false;
+			if (!check[i]){
+				if(cnt==0 || arr[cnt-1]<i+1){ 
+					check[i]=true;
+					arr[cnt] = i+1;
+					dfs(n,m,cnt+1);
+					check[i] = false;
+				}
 			}
 		}
 	}
