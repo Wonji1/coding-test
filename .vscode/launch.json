@@ -4,12 +4,19 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    {
-        "type": "java",
-        "name": "Launch Current File",
-        "request": "launch",
-        "mainClass": "${file}"
-    },
+        {
+            "type": "java",
+            "name": "Launch backtracking_14888",
+            "request": "launch",
+            "mainClass": "easytodif.backtracking_14888",
+            "projectName": "FC_cb078d4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
         {
             "type": "java",
             "name": "Launch backtracking_15649",
