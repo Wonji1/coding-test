@@ -1,7 +1,5 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class dfs5 {
@@ -42,7 +40,6 @@ public class dfs5 {
 		}
 		
 		Collections.sort(list);
-        List<String> tmp = list;
 		String[] answer = list.get(0).split(",");
 
 		return answer;
